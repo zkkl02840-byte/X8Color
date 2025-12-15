@@ -1,0 +1,23 @@
+body {
+ font-family:Verdana, Geneva, Tahoma, sans-serif;    
+ text-align: center;
+ padding-top: 50px;
+ background-color: white;
+}
+
+/*Levi Joel*/
+
+#loadingBox {
+ width: 300px;    
+ height: 100px;
+ margin: 0 auto 20px;
+ border: 2px solid black;
+ background-color: red;
+ transition: background-color 0.2s;
+}
+
+/*Levi Joel*/
+
+input[type="range"] {
+  width: 300px 
+}
